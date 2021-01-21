@@ -19,11 +19,11 @@ produces:
   - application/json
   - text/plain
 
-securityDefinitions:
-  JWTAuth:
-    type: apikey
-    name: Authorization
-    in: header
+# securityDefinitions:
+#  JWTAuth:
+#    type: apikey
+#    name: Authorization
+#    in: header
   
 paths:
   /recipes:
