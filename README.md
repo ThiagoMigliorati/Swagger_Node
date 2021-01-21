@@ -1,13 +1,12 @@
 # Skeleton project for Swagger
 
-## node version 8.3.0
-
 ## Install Dependencies
-### npm install
+- npm install
+- node version 8.3.0
 
 ## Start API
-## swagger project start
+- swagger project start
 ## localhost:10010/docs/
 
 ## Start Edit Swagger UI
-## swagger project edit
+ -swagger project edit
